@@ -2,20 +2,6 @@
 
 Welcome to the Chess-like Game! This project is a unique twist on traditional chess, featuring custom gameplay mechanics, an integrated chat system, and a modern user interface.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Gameplay Instructions](#gameplay-instructions)
-  - [Option 1: Play via Deployed Link](#option-1-play-via-deployed-link)
-  - [Option 2: Play Locally](#option-2-play-locally)
-- [Piece Movement Rules](#piece-movement-rules)
-- [User Interface Previews](#user-interface-previews)
-- [Getting Started](#getting-started)
-  - [Clone the Repository](#clone-the-repository)
-  - [Install Dependencies](#install-dependencies)
-  - [Start the Application](#start-the-application)
-
 ## Overview
 
 This game allows two players to engage in a strategic battle where each piece has unique movement capabilities. The game is enhanced by an in-game chat feature, allowing players to communicate during gameplay. The interface is designed to be intuitive and visually appealing, ensuring an enjoyable experience for all users.
